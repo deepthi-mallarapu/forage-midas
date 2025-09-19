@@ -1,4 +1,5 @@
-Forage-MIDAS
+**Forage-MIDAS**
+
 This repository contains my implementation of the JPMorgan Chase & Co. Software Engineering Virtual Experience on Forage. The project is based on the MIDAS (Markets Insight Data Analytics System) platform, which simulates how traders analyze financial data streams and make better decisions.
 
 During this simulation, I worked on debugging and fixing existing code, processing stock price data feeds, and creating visualization logic that could assist traders in decision-making. The tasks were designed to replicate real-world challenges faced by software engineers at JPMorgan Chase, giving me practical exposure to problem-solving in a financial technology context.
